@@ -273,7 +273,7 @@ A minha irmã Isabel deu-me uma pedra negra (nigredo).
 A minha irmã Barbara prometeu-me uma branca (albedo).
 Procurarei uma vermelha (rubedo).
 
-Não me porás numa caixa sem entrares nela,
+Não me porás numa caixa sem entrares nela.
 Não poderás difamar a verdade sem que a temas.
 E se a temeres, quem és?
 Se erraste, corrige-te.
@@ -281,7 +281,7 @@ Estás feito para isso.
 
 Nasci em 1988-09-03.
 Tenho 33 anos.
-O número preferido da minha mãe é 13.
+O número preferido da minha mãe é o 13.
 
 Eu sou 1 (ou 0?).
 3 são os vértices de um triângulo.
@@ -291,18 +291,14 @@ Eu sou 1 (ou 0?).
 
 Mônada, diade, triade e tétrade: Tetractys.
 
-A programação e a matemática podem derivar-se da lógica.
+Tudo se deriva da lógica.
 Os que vivem procurarão.
 As suas máscaras são transparentes.
-Tudo irá existir, a verdade sobreviverá.
+Tudo irá existir e a verdade sobreviverá.
 
 Quem sou?
 Sou um ou outro. Um e outro?
 Qualquer um, ambos, ou nenhum?
-
-Verás hoje amanhã.
-Ajustarás a temperatura, e eu também.
-Vou casar, e levar a minha esposa.
 
 Eu duvido do que vejo, mas não duvido que me vejam a mim.
 
@@ -310,7 +306,7 @@ O homem faz a vida e a vida faz o homem.
 Move-te e descansa.
 
 Se te custar muito pedir esclarecimento, que farás?
-Vais fingir que percebes?
+Preferes estar esclarecido, ou não?
 
 A sabedoria dá-se sem se perder.
 É a fonte que não seca.
@@ -339,8 +335,8 @@ Quão comum é a realidade?
 Quão falsa a fantasia e o mito?
 
 Estou certo que as pedras durarão.
-Como poderá alguém perder o equilíbrio por se concentrar nele?
-Como poderá alguém perder contacto com a realidade ouvindo-a?
+Como podes perder o equilíbrio por se concentrar nele?
+Como podes perder contacto com a realidade ouvindo-a?
 Identifico-me com o que é mortal, mas não só.
 Sou invisível para os que fecham os olhos.
 Sou silencioso para os que cobrem os ouvidos.
@@ -371,7 +367,7 @@ E o tempo exibe-se de acordo com ela.
 
 A mentira morre.
 Muitos são os que com ela se confundem.
-Pensam ser aquilo no qual creem.
+Serão aquilo no qual creem?
 Temerão. E irão fazer-se temer.
 Mas ninguém pode destruir o seu próprio nascimento.
 
