@@ -1,4 +1,4 @@
 .PHONY: run
 
 run:
-	scp 1* vm:/var/www/htdocs/
+	scp 1* vm:/var/www/htdocs
