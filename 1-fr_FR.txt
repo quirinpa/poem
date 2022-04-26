@@ -1,3 +1,5 @@
+Ce poème est disponible sous forme de contrôle de version sur https://github.com/quirinpa/poem.
+
 La réalité qui existe doit être logique.
 Et à quoi bon la logique s'il n'y a pas de programmation?
 Comment y a-t-il programmation sans programmeur?

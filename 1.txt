@@ -1,3 +1,5 @@
+Este poema está disponível sob forma de controlo de versões em https://github.com/quirinpa/poem.
+
 A realidade que existir tem que ser lógica.
 E de que serve a lógica, se não houver programação?
 Como há programação, sem haver um programador?

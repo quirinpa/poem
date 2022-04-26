@@ -1,3 +1,5 @@
+This poem is available under version control on https://github.com/quirinpa/poem.
+
 What reality exists must be logical.
 And what use is logic, if there is no (programming) code?
 How is there code, if there is no coder?
