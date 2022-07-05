@@ -1,4 +1,4 @@
 .PHONY: run
 
 run:
-	scp 1*.txt vm:/var/www/htdocs
+	scp *.html vm:/var/www/poems/programmers_poem/
